@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I´m Adrian 👋
+
+- 🌱 I’m a Computer Science student at Tecnológico de Monterrey.
+- 👯 Currently doing a software developer intership at Schneider Electric.
+- 🤔 Also currently learning about HTTP servers.
+- ⚡ Fun fact: I am a Tae Kwon Do Blackbelt.
+
+  [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianchavez23)](https://github.com/adrianchavez23/github-readme-stats)
+
 
 <!--
 **adrianchavez23/adrianChavez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
