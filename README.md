@@ -5,7 +5,7 @@
 - 🤔 Also currently learning about HTTP servers.
 - ⚡ Fun fact: I am a Tae Kwon Do Blackbelt.
 
-  [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianchavez23)](https://github.com/adrianchavez23/github-readme-stats)
+  [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianchavez23&show_icons=true&theme=radical)](https://github.com/adrianchavez23/github-readme-stats)
 
 
 <!--
