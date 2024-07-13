@@ -3,9 +3,9 @@
 
 # 💻 Projects:
 These are the projects where I´ve contributed the most:
-- Chatbot platform for NEORIS --  ![Frontend Repo](https://github.com/AdrianCantuA/Neoris_front) | ![Backend Repo](https://github.com/FernandoMartinez03/NeorisBack)
-- Inventory management mobile app ![Frontend Repo](https://github.com/sebasgarciag/Frontend-CEDAIN-App) | ![Backend Repo](https://github.com/sebasgarciag/Backend-CEDAIN-App)
-- Online Trial Platform for State Electoral Court ![Frontend Repo](https://github.com/JRickyAV/juicios_react) | ![Backend Repo](https://github.com/JRickyAV/juicios_tee)
+- Chatbot platform for NEORIS --  [Frontend Repo](https://github.com/AdrianCantuA/Neoris_front) | [Backend Repo](https://github.com/FernandoMartinez03/NeorisBack)
+- Inventory management mobile app [Frontend Repo](https://github.com/sebasgarciag/Frontend-CEDAIN-App) | [Backend Repo](https://github.com/sebasgarciag/Backend-CEDAIN-App)
+- Online Trial Platform for State Electoral Court [Frontend Repo](https://github.com/JRickyAV/juicios_react) | [Backend Repo](https://github.com/JRickyAV/juicios_tee)
 
 
 ## 🌐 Socials:
