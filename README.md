@@ -1,6 +1,12 @@
 # 💫 About Me:
 🌱 I’m a Computer Science student at Tecnológico de Monterrey.<br><br>👯 Currently doing a software developer intership at Schneider Electric.<br><br>🤔 Also currently learning about HTTP servers.<br><br>⚡ Fun fact: I am a Tae Kwon Do Blackbelt.
 
+# 💻 Projects:
+These are the projects where I´ve contributed the most:
+- Chatbot platform for NEORIS --  ![Frontend Repo](https://github.com/AdrianCantuA/Neoris_front) | ![Backend Repo](https://github.com/FernandoMartinez03/NeorisBack)
+- Inventory management mobile app ![Frontend Repo](https://github.com/sebasgarciag/Frontend-CEDAIN-App) | ![Backend Repo](https://github.com/sebasgarciag/Backend-CEDAIN-App)
+- Online Trial Platform for State Electoral Court ![Frontend Repo](https://github.com/JRickyAV/juicios_react) | ![Backend Repo](https://github.com/JRickyAV/juicios_tee)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/adrian-chavez-a494051a4) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MrPansho) 
